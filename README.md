@@ -22,4 +22,5 @@
 
 ![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=cisnux-seed&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=cisnux-seed&theme=tokyonight" alt="mystreak"/>
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cisnux-seed&theme=algolia)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats)
