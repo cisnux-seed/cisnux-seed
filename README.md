@@ -7,7 +7,6 @@
 - 🌱 I’m currently learning android, flutter and nodejs
 - ⚡ **Fun Facts** : 🎬🎧⚽
 </br>
-</br>
 
 ## Connect with me 👨‍🦱:
 
