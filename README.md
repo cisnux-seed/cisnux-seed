@@ -19,7 +19,7 @@
 ## GitHub Stats 📈 :
 
 
-![AkuraDiary's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=cisnux-seed&show_icons=true&theme=tokyonight)
+![Fajra's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=cisnux-seed&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=cisnux-seed&theme=tokyonight" alt="mystreak"/>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cisnux-seed&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cisnux-seed&theme=tokyonight)](https://github.com/cisnux-seed?tab=repositories)
