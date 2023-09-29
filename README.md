@@ -7,19 +7,15 @@ Looking ahead, my ambition is to establish a successful career as a Software Eng
 
 ## About Me :
 
-- 🎓 Studies for Computer Engineering at [Telkom University](https://telkomuniversity.ac.id/)
+- 🎓 Undergraduate Computer Engineering Student at [Telkom University](https://telkomuniversity.ac.id/)
 - 🏡'Lives in **Bandung, Indonesia**
 - 🌱 I’m currently learning Jetpack Compose, Flutter, and Machine Learning
 - ⚡ **Fun Facts** : 🎬🎧⚽
-</br>
 
 ## Connect with me 👨‍🦱:
 
-<br>
-
 [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/instagram-new.png "fajra_risqulla")](https://www.instagram.com/fajra_risqulla) [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "fajra_risqulla")](https://www.linkedin.com/in/fajra-risqulla-2294591b5/) [![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "082181707745")](tel:082181707745) [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "fajrarisqulla@gmail.com")](fajrarisqulla@gmail.com)
 
-<br>
 
 ## GitHub Stats 📈 :
 
