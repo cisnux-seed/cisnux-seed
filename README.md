@@ -10,7 +10,7 @@ Looking ahead, my ambition is to establish a successful career as a Software Eng
 - 🎓 Undergraduate Computer Engineering Student at [Telkom University](https://telkomuniversity.ac.id/)
 - 🏡'Lives in **Bandung, Indonesia**
 - 🌱 I’m currently learning Jetpack Compose, Flutter, and Machine Learning
-- ⚡ **Fun Facts** : 🎬🎧⚽
+- ⚡ Fun Facts : 🎬🎧⚽
 
 ## Connect with me 👨‍🦱:
 
