@@ -14,7 +14,7 @@ Looking ahead, my ambition is to establish a successful career as a Software Eng
 
 ## Connect with me 👨‍🦱:
 
-[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/instagram-new.png "fajra_risqulla")](https://www.instagram.com/fajra_risqulla) [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "fajra_risqulla")](https://www.linkedin.com/in/fajra-risqulla-2294591b5/) [![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "082181707745")](tel:082181707745) [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "fajrarisqulla@gmail.com")](fajrarisqulla@gmail.com)
+[![cisnux-seed](https://img.icons8.com/fluency/48/000000/instagram-new.png "fajra_risqulla")](https://www.instagram.com/fajra_risqulla) [![cisnux-seed](https://img.icons8.com/fluency/48/000000/linkedin.png "fajra_risqulla")](https://www.linkedin.com/in/fajra-risqulla-2294591b5/) [![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "082181707745")](tel:082181707745) [![fajrarisqulla@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "fajrarisqulla@gmail.com")](fajrarisqulla@gmail.com)
 
 
 ## GitHub Stats 📈 :
