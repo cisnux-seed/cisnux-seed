@@ -1,9 +1,9 @@
 # Hi there 👋
-My name is Fajra Risqulla, and I am currently pursuing a degree in Computer Engineering at Telkom University. As an Android and Backend enthusiast, I recently completed the Bangkit program, specializing in Mobile Development.
-
-During my time in the prestigious Bangkit program, I focused on Android development and had the opportunity to enhance my skills in Jetpack Compose, RESTful API, and Object-Oriented programming. As part of my capstone project at Bangkit, I actively contributed as an Android and Back-End Developer. I utilized Jetpack Compose to build engaging Android applications, while also working with technologies like HapiJS and Ktor to develop RESTful APIs and implement Web-socket functionality on the server side.
-
-Looking ahead, my ambition is to establish a successful career as a Software Engineer upon graduation from the Bangkit program. I am truly passionate about crafting innovative solutions and leveraging my technical expertise to create impactful software products.
+My name is Fajra Risqulla, and I just completed my Computer Engineering degree at Telkom University. I
+recently completed the prestigious Bangkit program with Distinction and gained valuable experience as a Back-
+End Developer Intern at Telkomsel, specializing in mobile development. I have a strong interest in both Mobile
+Development and Back-End Development, and I am eager to continue advancing my skills in these areas.
+Currently, I'm a Software Developer Intern at DKatalis.
 
 ## About Me :
 
