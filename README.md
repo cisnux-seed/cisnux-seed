@@ -7,9 +7,8 @@ Currently, I'm a Software Developer Intern at DKatalis.
 
 ## About Me :
 
-- 🎓 Undergraduate Computer Engineering Student at [Telkom University](https://telkomuniversity.ac.id/)
-- 🏡'Lives in **Bandung, Indonesia**
-- 🌱 I’m currently learning Jetpack Compose, Flutter, and Machine Learning
+- 🏡'Lives in **South Jakarta, Indonesia**
+- 🌱 I’m currently learning Jetpack Compose, Flutter, and Spring
 - ⚡ Fun Facts : 🎬🎧⚽
 
 ## Connect with me 👨‍🦱:
