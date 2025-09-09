@@ -1,9 +1,9 @@
 # Hi there 👋
-My name is Fajra Risqulla, and I just completed my Computer Engineering degree at Telkom University. I
-recently completed the prestigious Bangkit program with Distinction and gained valuable experience as a Back-
-End Developer Intern at Telkomsel, specializing in mobile development. I have a strong interest in both Mobile
-Development and Back-End Development, and I am eager to continue advancing my skills in these areas.
-Currently, I'm a Software Developer Intern at DKatalis.
+I'm Fajra Risqulla, a Computer Engineering graduate (cum laude) from Telkom University, currently serving as an ODP IT Trainee at BNI. I specialize in backend development, DevSecOps, and enterprise infrastructure solutions with experience across Indonesia's leading technology and financial institutions.
+
+My professional journey includes developing scalable back-office applications using Firebase Cloud Functions at DKatalis, and creating API boilerplates with Spring Framework at Telkomsel. I'm skilled in Spring Framework, microservices, CI/CD, OpenShift, Jenkins, and mobile development with Android Jetpack Compose.
+
+I'm a Bangkit Academy Graduate with Distinction (Google, Tokopedia, Gojek, Traveloka) and hold multiple development certifications. Currently focused on building robust, scalable solutions that power critical banking operations and advancing my expertise in DevSecOps and enterprise architecture. Let's connect! 🚀
 
 ## About Me :
 
