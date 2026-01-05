@@ -20,6 +20,5 @@ I'm a Bangkit Academy Graduate with Distinction (Google, Tokopedia, Gojek, Trave
 
 
 ![Fajra's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=cisnux-seed&show_icons=true&theme=tokyonight)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=cisnux-seed)](https://git.io/streak-stats)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cisnux-seed&theme=tokyonight)](https://github.com/cisnux-seed?tab=repositories)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cisnux-seed&theme=tokyonight)](https://git.io/streak-stats)
+![Top Languages](https://github-readme-stats-7lyz-js5rwezys-cisnuxseeds-projects.vercel.app/api/top-langs/?username=cisnux-seed&theme=tokyonight)
